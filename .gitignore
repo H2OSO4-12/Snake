@@ -37,3 +37,24 @@ build/
 
 ### Mac OS ###
 .DS_Store
+###MyConf###
+/.png/
+/pom.xml/
+/.target/
+/.gitignore
+/.mvn/
+/.idea/
+# Папки сборки
+/out/
+/build/
+/target/
+/lib/
+
+# Служебные файлы IntelliJ IDEA
+.idea/
+.mvn
+*.xml
+
+# Локальные настройки и кэш
+.gradle/
+*.log
