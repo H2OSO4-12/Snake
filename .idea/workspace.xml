@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3cdf028b-b892-4f72-baf6-5e19e4165c53" name="Changes" comment="add README" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+        <option value="JUnit6 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;H2OSO4-12&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/H2OSO4-12/Snake.git&quot;,
+    &quot;accountId&quot;: &quot;d93ae0e5-12a0-44ca-bc8b-968c5acb6b9a&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000000006106307" />
+      <entry key="S5" value="1.0002135704250288" />
+      <entry key="S10" value="1.0220928172659116" />
+      <entry key="S30" value="2.344599636871415" />
+      <entry key="S60" value="6.073797631457098" />
+      <entry key="M2" value="12.791842244079753" />
+      <entry key="M5" value="29.30209032780093" />
+      <entry key="M10" value="47.19012743460845" />
+      <entry key="M15" value="57.57425794151223" />
+      <entry key="M30" value="72.07851984002669" />
+      <entry key="H1" value="81.54143656481321" />
+      <entry key="H2" value="86.99060410765016" />
+      <entry key="H4" value="89.9209604378189" />
+      <entry key="D1" value="92.47611031236431" />
+      <entry key="W1" value="92.92489089220776" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="5.766118335681567E-89" />
+      <entry key="S2" value="8.714066858895917E-23" />
+      <entry key="S5" value="1.499989970122894E-9" />
+      <entry key="S10" value="3.872970397670105E-5" />
+      <entry key="S30" value="0.03383358820961871" />
+      <entry key="S60" value="0.18393908891470412" />
+      <entry key="M2" value="0.4289406659321258" />
+      <entry key="M5" value="0.7723904957596323" />
+      <entry key="M10" value="1.4422342574420737" />
+      <entry key="M15" value="2.182926314845542" />
+      <entry key="M30" value="3.726732737801119" />
+      <entry key="H1" value="5.057429018128819" />
+      <entry key="H2" value="5.936887814788365" />
+      <entry key="H4" value="6.44323159907538" />
+      <entry key="D1" value="6.9034939310599235" />
+      <entry key="W1" value="6.986119663610436" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.005336094752946856" />
+      <entry key="MS500" value="0.3511112189344993" />
+      <entry key="S2" value="0.7697703463473996" />
+      <entry key="S5" value="0.9008106710879414" />
+      <entry key="S10" value="0.9700708913189662" />
+      <entry key="S30" value="2.35103547437904" />
+      <entry key="S60" value="6.232621629427166" />
+      <entry key="M2" value="13.199395267408532" />
+      <entry key="M5" value="30.05708601140854" />
+      <entry key="M10" value="48.616350309892695" />
+      <entry key="M15" value="59.74273442557639" />
+      <entry key="M30" value="75.79483360043858" />
+      <entry key="H1" value="86.59245099945248" />
+      <entry key="H2" value="92.92391041089246" />
+      <entry key="H4" value="96.36229672385213" />
+      <entry key="D1" value="99.37927279869646" />
+      <entry key="W1" value="99.91096281124298" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="36R5HqDvkdlB4VHBOlwusJS7KWD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainTest.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;JUnit.GameTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Home_panelTest.getPlayButton.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MainTest.Main.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MainTest.MainTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MainTest.Main_Test.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MainTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MainTest.main_test.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MainTest.start_game.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MainTest.update_level.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MainTest.update_score.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit6&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit6&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/shama/IdeaProjects/Snake/src/main/java/Snake/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.5045977&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\shama\IdeaProjects\Snake\src\main\java\Snake" />
+      <recent name="C:\Users\shama\IdeaProjects\Snake\resources" />
+      <recent name="C:\Users\shama\IdeaProjects\Snake" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Snake" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Snake.Main" />
+      <module name="Snake" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Snake.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Snake" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Snake.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Snake" />
+      <option name="MAIN_CLASS_NAME" value="Snake.MainTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.main_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Snake" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Snake.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Snake" />
+      <option name="MAIN_CLASS_NAME" value="Snake.MainTest" />
+      <option name="METHOD_NAME" value="main_test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.start_game" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Snake" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Snake.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Snake" />
+      <option name="MAIN_CLASS_NAME" value="Snake.MainTest" />
+      <option name="METHOD_NAME" value="start_game" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainTest.update_score" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Snake" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Snake.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Snake" />
+      <option name="MAIN_CLASS_NAME" value="Snake.MainTest" />
+      <option name="METHOD_NAME" value="update_score" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.MainTest.update_score" />
+      <item itemvalue="JUnit.MainTest" />
+      <item itemvalue="JUnit.MainTest.main_test" />
+      <item itemvalue="JUnit.MainTest.start_game" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.MainTest.main_test" />
+        <item itemvalue="JUnit.MainTest" />
+        <item itemvalue="JUnit.MainTest.update_score" />
+        <item itemvalue="JUnit.MainTest.start_game" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.24374.151" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.24374.151" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3cdf028b-b892-4f72-baf6-5e19e4165c53" name="Changes" comment="" />
+      <created>1764956461881</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764956461881</updated>
+    </task>
+    <task id="LOCAL-00001" summary="add README.md">
+      <option name="closed" value="true" />
+      <created>1774546652221</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1774546652221</updated>
+    </task>
+    <task id="LOCAL-00002" summary="conf gitignore">
+      <option name="closed" value="true" />
+      <created>1779975696698</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1779975696698</updated>
+    </task>
+    <task id="LOCAL-00003" summary="conf gitignore">
+      <option name="closed" value="true" />
+      <created>1779976199854</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1779976199854</updated>
+    </task>
+    <task id="LOCAL-00004" summary="conf gitignore">
+      <option name="closed" value="true" />
+      <created>1779976405011</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1779976405011</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Merge unrelated histories">
+      <option name="closed" value="true" />
+      <created>1779976596830</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1779976596830</updated>
+    </task>
+    <task id="LOCAL-00006" summary="push">
+      <option name="closed" value="true" />
+      <created>1779977921061</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1779977921061</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update">
+      <option name="closed" value="true" />
+      <created>1779977974312</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1779977974312</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add README">
+      <option name="closed" value="true" />
+      <created>1779978375355</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1779978375355</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add README.md" />
+    <MESSAGE value="Удаление лишних файлов из отслеживания Git" />
+    <MESSAGE value="Merge branch 'new_step' of https://github.com/H2OSO4-12/Snake into new_step&#10;# Please enter a commit message to explain why this merge is necessary,&#10;# especially if it merges an updated upstream into a topic branch.&#10;#&#10;# Lines starting with '#' will be ignored, and an empty message aborts&#10;# the commit." />
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="conf gitignore" />
+    <MESSAGE value="Merge unrelated histories" />
+    <MESSAGE value="push" />
+    <MESSAGE value="add README.mq" />
+    <MESSAGE value="update" />
+    <MESSAGE value="add README" />
+    <option name="LAST_COMMIT_MESSAGE" value="add README" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Snake$MainTest.ic" NAME="MainTest Coverage Results" MODIFIED="1765014971689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>Snake.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Snake$MainTest_main_test.ic" NAME="MainTest.main_test Coverage Results" MODIFIED="1765057253373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>Snake.*</FILTER>
+    </SUITE>
+  </component>
+</project>
