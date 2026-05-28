@@ -1,1 +1,0 @@
-This project was created in Java for a computer science coursework.
